@@ -545,7 +545,7 @@ Group admins/group owners do not need these commands.
 
 *Broadcast: (Bot owner only)*
 *Note:* This supports basic markdown
- ❍ /broadcastall*:* Broadcasts everywhere
+ ❍ /bcast*:* Broadcasts everywhere
  ❍ /broadcastusers*:* Broadcasts too all users
  ❍ /broadcastgroups*:* Broadcasts too all groups
 
