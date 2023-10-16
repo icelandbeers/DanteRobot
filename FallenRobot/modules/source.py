@@ -29,7 +29,7 @@ async def repo(_, message: Message):
                     InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", user_id=OWNER_ID),
                     InlineKeyboardButton(
                         "ᴅᴀᴠᴇʟᴏᴘᴇʀ",
-                        url="https://t.me/DantePediaV1",
+                        url="https://t.me/DanteVincentee",
                     ),
                 ]
             ]
