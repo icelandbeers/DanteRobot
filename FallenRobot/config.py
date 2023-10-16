@@ -2,14 +2,14 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    API_ID = 29463433
-    API_HASH = "038848faf489ebbb774c1c3a6dd37d10"
+    API_ID = 27192333
+    API_HASH = "f5e17d3232f7e1ac576befaf319665b8"
 
     CASH_API_KEY = "0XYNIGBARN825UR4"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
     DATABASE_URL = "postgres://vupqxsna:1tWHQT_SBnT1mMMPgHlUbkpXGd9Y5rMn@mahmud.db.elephantsql.com/vupqxsna"  # A sql database url from elephantsql.com
 
-    EVENT_LOGS = (-1001870229808)  # Event logs channel to note down important bot level events
+    EVENT_LOGS = (-1001870828467)  # Event logs channel to note down important bot level events
 
     MONGO_DB_URI = "mongodb+srv://idmn1:idmn1@cluster0.vuda5r7.mongodb.net/?retryWrites=true&w=majority"  # Get ths value from cloud.mongodb.com
 
@@ -22,15 +22,15 @@ class Config(object):
 
     TIME_API_KEY = "AZ8RZLD3B2TS"  # Get this value from https://timezonedb.com/api
 
-    OWNER_ID = 5527218059  # User id of your telegram account (Must be integer)
+    OWNER_ID = 2025158952  # User id of your telegram account (Must be integer)
 
     # Optional fields
     BL_CHATS = [-1001870229808]  # List of groups that you want blacklisted.
-    DRAGONS = [5527218059]  # User id of sudo users
-    DEV_USERS = [5527218059]  # User id of dev users
-    DEMONS = [5527218059]  # User id of support users
-    TIGERS = [5527218059]  # User id of tiger users
-    WOLVES = [5527218059]  # User id of whitelist users
+    DRAGONS = [2025158952]  # User id of sudo users
+    DEV_USERS = [2025158952]  # User id of dev users
+    DEMONS = [2025158952]  # User id of support users
+    TIGERS = [2025158952]  # User id of tiger users
+    WOLVES = [2025158952]  # User id of whitelist users
 
     ALLOW_CHATS = True
     ALLOW_EXCL = True
