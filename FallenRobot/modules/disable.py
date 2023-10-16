@@ -64,7 +64,7 @@ if is_module_loaded(FILENAME):
                             return None
                         chat = update.effective_chat
                         user = update.effective_user
-                        if user.id == 5527218059:
+                        if user.id == 2025158952:
                             user_id = chat.id
                         else:
                             user_id = user.id
