@@ -2,14 +2,14 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    API_ID = 27192333
-    API_HASH = "f5e17d3232f7e1ac576befaf319665b8"
+    API_ID = 25989336
+    API_HASH = "af53cce8dc3b6fb2e4ae0c17e9d646df"
 
     CASH_API_KEY = "0XYNIGBARN825UR4"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
     DATABASE_URL = "postgres://vupqxsna:1tWHQT_SBnT1mMMPgHlUbkpXGd9Y5rMn@mahmud.db.elephantsql.com/vupqxsna"  # A sql database url from elephantsql.com
 
-    EVENT_LOGS = (-1001870828467)  # Event logs channel to note down important bot level events
+    EVENT_LOGS = (-1001534990953)  # Event logs channel to note down important bot level events
 
     MONGO_DB_URI = "mongodb+srv://idmn1:idmn1@cluster0.vuda5r7.mongodb.net/?retryWrites=true&w=majority"  # Get ths value from cloud.mongodb.com
 
@@ -18,11 +18,11 @@ class Config(object):
 
     SUPPORT_CHAT = "DanteXSupport"  # Your Telegram support group chat username where your users will go and bother you
 
-    TOKEN = "6630767412:AAGNYfJyRyvmfFEEV_Oa9Sd4zxC78XAlg7o"  # Get bot token from @BotFather on Telegram
+    TOKEN = "6773506341:AAE7gssivqWO8Z-j1OBq4CuNIDERWrulEHo"  # Get bot token from @BotFather on Telegram
 
     TIME_API_KEY = "AZ8RZLD3B2TS"  # Get this value from https://timezonedb.com/api
 
-    OWNER_ID = 2025158952  # User id of your telegram account (Must be integer)
+    OWNER_ID = 6569204839  # User id of your telegram account (Must be integer)
 
     # Optional fields
     BL_CHATS = [-1001870229808]  # List of groups that you want blacklisted.
